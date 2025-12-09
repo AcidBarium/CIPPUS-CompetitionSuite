@@ -1,6 +1,10 @@
 # 创新创业奖荣誉评选（比赛部分）认定清单竞赛简介
 
-## 一、文件职责说明
+## 一、任务划分
+
+![alt text](img/forReadme/fenGongTu.png)
+
+## 二、文件职责说明
 
 * **国家级比赛简介**统一撰写在
   `nationalLevel.md`
@@ -14,7 +18,7 @@
 请勿在上述文件之外新增同级比赛简介文件。
 
 
-## 二、比赛图片规范
+## 三、比赛图片规范
 
 ### 1. 图片存放位置
 
@@ -47,7 +51,7 @@ img/CCCC/xiYangYang.jpg
 * 如图片过大，请进行压缩后再提交
 
 
-## 三、比赛简介内容规范
+## 四、比赛简介内容规范
 
 比赛简介可包括但不限于以下内容：
 
@@ -66,7 +70,7 @@ img/CCCC/xiYangYang.jpg
 
 
 
-## 四、Markdown 撰写规范
+## 五、Markdown 撰写规范
 
 ### 1. 标题层级
 
@@ -97,7 +101,7 @@ img/CCCC/xiYangYang.jpg
 
 
 
-## 五、Commit 提交规范
+## 六、Commit 提交规范
 
 提交代码时，请尽可能遵循以下 Commit Message 规范：
 
@@ -120,7 +124,7 @@ perf: compress ICPC images
 
 
 
-## 六、仓库目录结构
+## 七、仓库目录结构
 
 ```txt
 .
