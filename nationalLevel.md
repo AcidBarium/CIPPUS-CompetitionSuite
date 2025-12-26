@@ -415,7 +415,7 @@ https://chuangxin.dlut.edu.cn/info/1020/14126.htm (校赛 省赛)
 
 ### 比赛流程
 
-<img src="/home/chuanshanjia/GitHubRepository/CIPPUS-CompetitionSuite/img/CCCC/flowChart.png" alt="flowChart" style="zoom: 33%;" />
+<img src="img/CCCC/flowChart.png" alt="flowChart" style="zoom: 33%;" />
 
 ### 往届情况
 
@@ -435,7 +435,7 @@ https://chuangxin.dlut.edu.cn/info/1020/14126.htm (校赛 省赛)
 
 5. 南京东赛区（人工智能应用/数媒动漫与短片）/（东南大学）/ 承办学校：江西师范大学/ 2025.8.13-17
 
-![compitation](/home/chuanshanjia/GitHubRepository/CIPPUS-CompetitionSuite/img/CCCC/compitation.png)
+![compitation](img/CCCC/compitation.png)
 
 ### 相关链接
 
