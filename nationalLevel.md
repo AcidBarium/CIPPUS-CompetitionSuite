@@ -451,6 +451,11 @@ http://gjcxcy.bjtu.edu.cn/
 
 # 中国智能车未来挑战赛
 
+
+
+
+
+
 # 全国大学生电子商务“创新、创意及创业”挑战赛
 
 
@@ -1178,6 +1183,8 @@ https://craic.yuntop.com/#/index
 http://cxcyglpt.dlutci.edu.cn/comp/front/comp/info?id=105
 
 http://cxcyglpt.dlutci.edu.cn/comp/front/comp/info?id=20
+
+https://chuangxin.dlut.edu.cn/info/1020/12016.htm
 
 ### 学院通知参考
 
